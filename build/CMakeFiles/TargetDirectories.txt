@@ -1,0 +1,3 @@
+/home/geoubuntu/Desktop/RobloxCardGame/build/CMakeFiles/DeathsHand.dir
+/home/geoubuntu/Desktop/RobloxCardGame/build/CMakeFiles/edit_cache.dir
+/home/geoubuntu/Desktop/RobloxCardGame/build/CMakeFiles/rebuild_cache.dir

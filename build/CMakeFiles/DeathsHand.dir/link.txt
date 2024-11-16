@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DeathsHand.dir/src/card_game_ai.cpp.o CMakeFiles/DeathsHand.dir/src/game_core.cpp.o CMakeFiles/DeathsHand.dir/src/main.cpp.o -o DeathsHand  -ltensorflow 
